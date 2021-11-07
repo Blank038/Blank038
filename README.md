@@ -1,4 +1,5 @@
-❤ 除了旧项目还在 Github 继续更新，其他的全部迁移到自己的私人仓库了。
+Hi there 👋.  
+I'm a amateur developer.
 <br>
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blank038&count_private=true&theme=graywhite&show_icons=true)](https://github.com/Blank038)
